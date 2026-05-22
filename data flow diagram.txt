@@ -1,0 +1,15 @@
+MPU6050 Sensor Data
+        ↓
+[Read acceleration X,Y,Z]
+        ↓
+[Calculate magnitude = √(x²+y²+z²)]
+        ↓
+[magnitude > 1.65?]
+        ├─YES→ [Trigger Buzzer + LED]
+        └─NO → [Continue monitoring]
+        ↓
+[Button pressed?]
+        ├─YES→ [Stop Buzzer + LED]
+        └─NO → [Continue monitoring]
+        ↓
+[Loop back]
