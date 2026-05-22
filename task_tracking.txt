@@ -1,0 +1,11 @@
+Task Division:
+- SUNIL TAMANG: Hardware assembly & soldering (DONE ✅)
+AYUSH BHANDARI- : Firmware development (DONE ✅)
+- S ARSHIYA SHAH AND SAKSHAM KHANAL: Testing & documentation (DONE ✅)
+
+Completed Tasks:
+✅ Soldered all connections
+✅ Flashed code to ESP32-S3
+✅ Calibrated MPU6050 threshold
+✅ Tested all 8 functional requirements
+✅ Created README and documentation
